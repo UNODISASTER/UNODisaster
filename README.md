@@ -38,7 +38,10 @@ As a result, all of these concerns, opportunities, methods, and consequences rem
 Yet, there is a need for this type of engagement in EM. The need grows daily as the average consumer moves away from telephone calls to messaging apps, from television to streaming media, in conjunction with the growing threat provided by information communication technologies which was developed quickly and has created new types of vulnerabilities. 
 
 <a name="STISIG"></a>
-## Science and Technology Integration or What Could be Integrated with EM Practice
+## Science and Technology Integration or What Could be Integrated with EM Practice+
+
+In order to better understand where and what could be integrated, there is a need to understand Emergency Management as it is currently practiced. To do this...
+
 
 <a name="Training"></a>
 ## Training Development or How to Integrate Technology with EM
