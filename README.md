@@ -38,3 +38,14 @@ Yet, there is a need for this type of engagement in EM. The need grows daily as 
 
 <a name="Training"></a>
 ## Training Development or How to Integrate Technology with EM
+
+EM does not currently have a path to professionalization. While there are some degree programs out there, the bulk of EM practitioners come from the armed forces, from emergency services, and other similar domains. As a result, any sort of shift in practice will need to occur not inside of college programs (though this will happen over time), but in places where practice is learned. Through training modules at places like the [Emergency Management Institute](https://training.fema.gov/emi.aspx), the [International Association of Emergency Management](https://www.iaem.org/), and the [National Emergency Management Association](https://www.nemaweb.org/).
+
+In addition, training exercises [(outlined on Ready.gov)](https://www.ready.gov/exercises) can help bring existing practitioners on board as they learn about the theory of computational techniques while not actually being tasked to perform them. 
+
+All of this requires work in and around that of Tabletop Role-Playing Games, Video Games, and everything in between in order to better understand a number of aspects related to tabletop exercises. This includes: 
+
+* Immersion
+* Knowledge Transfer
+* How systems mediate action
+* How mixed media can be done cheaply and effectively
