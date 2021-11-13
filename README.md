@@ -18,6 +18,10 @@ Through these 3 premises, the work undertaken by this group of researchers, stud
 
 What we seek to do is to unpack decades of practice; find what can be done immediately, in the near future, and in the distant future; and begin to re-pack practice with technological knowledge that has been developing outside of EM practice for a number of years. This re-packing will be done with training modules, insider knowledge as a practitioner, and tabletop exercises. 
 
+It is important to note that we are not concerned with the bleeding edge of technology, but with minimal, stable, and robust technologies that can enhance existing procedures without adding overhead, specialized skills, or the need to hire IT professionals. This is important to note because we seek to translate computer science, information science, and other technical domains in such a way as to render their inner workings known, understandable, and configurable without effort. And so when we say, "augment" we mean to "augment" not replace, upgrade, or otherwise overwhelm. 
+
+The place of EM in the zeitgeist, especially that of COVID, is as such that in the midst of disaster, it is sought after. Between disasters almost all interest disappears and while we are currently in an upward spring of natural hazards, we are not in an upward swing of protecting human-life from them. As such, we approach the practice of emergency management as though EM are moslty responsible for trying to save us from ourselves without money, resources, or technology.
+
 <a name="CI-What"></a>
 ## Crisis Informatics or What Could be Possible
 
