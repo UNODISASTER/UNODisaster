@@ -6,9 +6,7 @@ The Disaster Researchers in the College of Information Science and Technology at
 2. Science and Technology Integration (What is needed)
 3. Training Development (How to integrate)
 
-
-
-# Origin Point
+## Crisis Informatics or What Could be Possible
 
 For over 15 years, the work done in and around the term, "[crisis informatics](https://tinyurl.com/crisisinformatics)" has failed to take hold in the spaces in and around Emergency Management. Crisis Informatics is: 
 
@@ -20,3 +18,6 @@ More specifically, crisis informatics:
 
 Yet, all of these concerns, opportunities, methods, and consequences remain unanswer, unnoticed, and are without consequence for emergency management itself. 
 
+## Science and Technology Integration or What Could be Integrated with EM Practice
+
+## Training Development or How to Integrate Technology with EM
