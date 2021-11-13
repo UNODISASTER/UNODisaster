@@ -1,3 +1,13 @@
+# What is UNODisaaster?
+
+The Disaster Researchers in the College of Information Science and Technology at the University of Nebraska at Omaha are primarily concerned with engaging emergency management (EM) practice in FEMA Region 7 (Iowa, Kansas, Missouri, Nebraska) to understand where technology could augment existing practices in order to enhance EM's ability to save lives. This work is primarily being done under 3 specific headings: 
+
+1. Crisis Informatics (What could be possible)
+2. Science and Technology Integration (What is needed)
+3. Training Development (How to integrate)
+
+
+
 # Origin Point
 
 For over 15 years, the work done in and around the term, "[crisis informatics](https://tinyurl.com/crisisinformatics)" has failed to take hold in the spaces in and around Emergency Management. Crisis Informatics is: 
