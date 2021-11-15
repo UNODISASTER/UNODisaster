@@ -37,6 +37,11 @@ So there are empirical possibilities with the domain of internet-communication t
 
 As a result, all of these concerns, opportunities, methods, and consequences remain unanswered, unnoticed, and are mostly without consequence for EM. Mostly without consequence because the need grows daily. With each iteration of mobile device, chip, and innovation in ICTs, the average consumer moves away from telephone calls. They move to messaging apps, away from television to streaming media, and in conjunction with the growing threat provided by information communication technologies which was developed quickly and has created new types of vulnerabilities. 
 
+### Work done in this cateogory
+LaLone, Nicolas, Z. Toups, and Andrea Tapia. "The structure of citizen bystander offering behaviors immediately after the Boston marathon bombing." (2020).
+LaLone, Nicolas J., Jess Kropczynski, and Andrea H. Tapia. "The Symbiotic Relationship of Crisis Response Professionals and Enthusiasts as Demonstrated by Reddit's User-Interface Over Time." ISCRAM. 2018.
+
+
 <a name="STISIG"></a>
 ## Science and Technology Integration or What Could be Integrated with EM Practice+
 
@@ -49,6 +54,9 @@ One of the most powerful reasons for a lack of engagement with CI in EM is that 
 To 1, hiring graduate students interested in EM is easier said than done in that students in anything touching ICTs will be hyper-competitive in the market of ICTs, away from that of EM. To 2, this is the focal point of the work being done. Through this work, we can begin to make sense of where computation can aid EM in addition to understand the capacity of EM with regard to the potential tools. 
 
 In understanding EM in this way, different types of design can be applied to develop tools that EM can use. This is of paramount interest to HCI and work surrounding machine learning, artificial intelligence, and other forms of automated sifting. Through practical deployment of AI, ML, or other automata, the shift from what is possible to what is necessary can help create new industries, new competitions, and other kinds of tools.
+
+### Work done in this category
+LaLone, N., A. Alharthi, S., & Toups, Z. O. (2019, November). A Vision of Augmented Reality for Urban Search and Rescue. In Proceedings of the Halfway to the Future Symposium 2019 (pp. 1-4).
 
 
 <a name="Training"></a>
@@ -66,5 +74,9 @@ This includes:
 * Knowledge Transfer
 * How systems mediate action
 * How mixed media can be done cheaply and effectively
+
+### Work done in this cateogory
+LaLone, Nicolas. "Gameplay as Network: Understanding the Consequences of Automation on Play and Use." International Conference on Human-Computer Interaction. Springer, Cham, 2021.
+LaLone, Nicolas. "A tale of Dungeons & Dragons and the origins of the game platform." Analog Game Studies 3.6 (2019).
 
 Work is currently under way within each of these distinct headings. 
