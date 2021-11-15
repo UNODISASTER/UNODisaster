@@ -25,7 +25,7 @@ It is important to note that we are not concerned with the bleeding edge of tech
 The place of EM in the zeitgeist, especially that of COVID, is as such that in the midst of disaster, it is sought after. Between disasters almost all interest disappears and while we are currently in an upward spring of natural hazards, we are not in an upward swing of protecting human societies from them. As such, we approach the practice of EM as the group responsible for trying to save us from ourselves; only, without money, resources, technology, or status.
 
 <a name="CI-What"></a>
-## Crisis Informatics or What Could be Possible
+## 1 - Crisis Informatics or What Could be Possible
 
 The driving force for this work is through the domain of crisis informatics. It is a driving force because for over 15 years, the work done in and around the term, "[crisis informatics (CI)](https://tinyurl.com/crisisinformatics)" has failed to take hold in the spaces in and around Emergency Management. Yet, the techniques and tools CI has developed can provide useful new tools to EM. 
 
@@ -43,7 +43,7 @@ LaLone, Nicolas J., Jess Kropczynski, and Andrea H. Tapia. "The Symbiotic Relati
 
 
 <a name="STISIG"></a>
-## Science and Technology Integration or What Could be Integrated with EM Practice+
+## 2 - Science and Technology Integration or What Could be Integrated with EM Practice+
 
 One of the most powerful reasons for a lack of engagement with CI in EM is that there is little to no crossover between academia and practice. The result is that in order to better understand where and what could be integrated, there is a need to understand Emergency Management as it is currently practiced. To do this there are three distinct paths: 
 
@@ -60,7 +60,7 @@ LaLone, N., A. Alharthi, S., & Toups, Z. O. (2019, November). A Vision of Augmen
 
 
 <a name="Training"></a>
-## Training Development or How to Integrate Technology with EM
+## 3 - Training Development or How to Integrate Technology with EM
 
 EM does not currently have a path to professionalization. While there are some degree programs out there, the bulk of EM practitioners come from the armed forces, from emergency services, and other similar domains. As a result, any sort of shift in practice will need to occur not inside of college programs (though this will happen over time), but in places where practice is learned. Through training modules at places like the [Emergency Management Institute](https://training.fema.gov/emi.aspx), the [International Association of Emergency Management](https://www.iaem.org/), and the [National Emergency Management Association](https://www.nemaweb.org/).
 
